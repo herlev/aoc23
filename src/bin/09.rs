@@ -1,5 +1,4 @@
 use itertools::*;
-use std::collections::{HashMap, HashSet};
 
 fn extrapolate(mut v: Vec<i64>) -> i64 {
   let mut last_vals = vec![*v.last().unwrap()];
