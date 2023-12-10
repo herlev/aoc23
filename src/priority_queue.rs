@@ -1,6 +1,6 @@
 use std::collections::BinaryHeap;
 
-enum OrderBy {
+pub enum OrderBy {
   Min,
   Max,
 }
