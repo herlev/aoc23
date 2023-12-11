@@ -1,11 +1,11 @@
 use itertools::*;
 use std::collections::{HashMap, HashSet};
 
-fn part1(input: &str) -> u32 {
+fn part1(input: &str) -> u64 {
   todo!()
 }
 
-fn part2(input: &str) -> u32 {
+fn part2(input: &str) -> u64 {
   todo!()
 }
 
